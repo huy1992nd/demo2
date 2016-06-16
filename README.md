@@ -13,3 +13,25 @@
 
 *Nghieng*
 **Dam**
+
+
+```php
+<?php
+$foo = 1;
+$bar = 2;
+
+```
+
+
+```js
+
+var a = 1;
+
+console.log(a);
+```
+
+```
+var a = 1;
+
+console.log(a);
+```
